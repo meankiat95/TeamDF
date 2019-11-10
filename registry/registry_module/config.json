@@ -1,0 +1,10 @@
+{
+  "sub_key_path_usb":"SYSTEM\\ControlSet001\\Enum\\USBSTOR",
+  "sub_key_path_ip":"SYSTEM\\CurrentControlSet\\Services\\Tcpip\\Parameters\\Interfaces",
+  "sub_key_path_recent":"Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RecentDocs",
+  "sub_key_path_wireless":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\NetworkList\\Profiles",
+  "sub_key_path_startup_run":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+  "sub_key_path_startup_run_once":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnce",
+  "sub_key_path_particular_user":"Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+  "data_file_path": "D:\\Downloads\\teamDF3\\registry\\registry_module\\data_registry\\registry_data.xlsx"
+}
